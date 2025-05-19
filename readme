@@ -1,0 +1,37 @@
+# Lista de Exercicíos Javascript +PraTi & Codifica Edu
+
+## 📁 Estrutura
+
+Os exercícios estão organizados em arquivos separados, localizados na pasta `exercicios/`. Cada arquivo contém um problema resolvido.
+
+## 📋 Pré-requisitos
+
+Para executar este código, é necessário ter o **Node.js** instalado em sua máquina.
+
+### Caso Não Tenha o Node.js instalado:
+
+1. Instale o [Node.js](https://nodejs.org/)
+
+Além disso, é preciso instalar a biblioteca `prompt-sync`, que permite a entrada de dados via terminal.
+
+## ⚙️ Instalação
+
+1. Clone ou baixe este repositório.
+2. No terminal, navegue até a pasta onde está o arquivo `.js`.
+3. Execute o comando abaixo para instalar a biblioteca necessária:
+
+```bash
+npm i prompt-sync
+
+or
+
+npm install prompt-sync
+```
+
+####
+
+Execute qualquer exercício com:
+
+```
+node 01-par-ou-impar.js
+```
